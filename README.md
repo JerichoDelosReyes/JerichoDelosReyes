@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm Jericho 👋</h1>
 
-<!--
-**JerichoDelosReyes/JerichoDelosReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Engineer | Cavite State University | CS Student**  
+💡 Passionate about coding, problem-solving, and building innovative tech solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 **Tech Stack & Tools**
+### 🚀 Programming Languages:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="70"/>
+</p>
+
+### 🌐 Frontend & Styling:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" height="75" alt="HTML, CSS, Bootstrap, Tailwind CSS">
+</p>
+
+### 🎨 **Creative & Productivity Tools**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50"/>
+  <a href="https://cdnlogo.com/logo/office_764.html">
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50"/>
+ <img src="https://static.cdnlogo.com/logos/o/96/office.svg" alt="Microsoft Office" width="40"/>
+
+</p>
+
+---
+
+## 📬 **Connect with Me**
+<p align="center">
+  <a href="https://www.facebook.com/jerZer0" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jericho-delos-reyes-007468354/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/>
+  </a>
+  <a href="mailto:jericho.dlsreyes@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="60"/>
+  </a>
+</p>
+
+---
+
+## 💭 **Favorite Quote**
+> *"My unmatched perspicacity coupled with sheer indefatigability makes me a feared opponent in any realm of human endeavour."* – Emory Tate  
+
+---
+
+## 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JerichoDelosReyes&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerichoDelosReyes&layout=compact&theme=radical" width="49%"/>
+</div>
+
+---
