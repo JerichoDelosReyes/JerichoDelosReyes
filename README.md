@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Jericho 👋</h1>
+<h1 align="center">I'm Jericho! 👋</h1>
 
 🚀 **Aspiring Software Engineer | Cavite State University | CS Student**  
 💡 Passionate about coding, problem-solving, and building innovative tech solutions.  
